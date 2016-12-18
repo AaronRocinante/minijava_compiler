@@ -1,0 +1,4 @@
+
+func Main()
+Error("hi there")
+ret
