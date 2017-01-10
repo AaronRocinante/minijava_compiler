@@ -14,3 +14,5 @@ Homework 5 is in the 2mips folder, i.e. to translate Vapor-M programs to MIPS.
 Specifications for homework 2-5 can be found here:
 http://web.cs.ucla.edu/classes/spring11/cs132/kannan/index.html
 
+Certain syntax trees are built using Java TreeBuilder (JTB) at:
+http://compilers.cs.ucla.edu/jtb/
